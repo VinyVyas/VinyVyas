@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data Science
 - 🌱 I’m currently learning Machine learning
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me viny.vyas2@gmail.com
 
 <!---
 VinyVyas/VinyVyas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
